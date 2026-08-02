@@ -20,18 +20,29 @@
       "_framework-CXnKph_e.js"
     ]
   },
+  "app/IdentityStage.tsx": {
+    "file": "assets/IdentityStage-bTaeque4.js",
+    "name": "IdentityStage",
+    "src": "app/IdentityStage.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-S-ySWqyJ.js",
+      "_framework-CXnKph_e.js"
+    ]
+  },
   "app/ProjectShowcase.tsx": {
-    "file": "assets/ProjectShowcase-cYw_GUKt.js",
+    "file": "assets/ProjectShowcase-DOcQEnW-.js",
     "name": "ProjectShowcase",
     "src": "app/ProjectShowcase.tsx",
     "isDynamicEntry": true,
     "imports": [
+      "_rolldown-runtime-S-ySWqyJ.js",
       "app/HaisenAI.tsx",
       "_framework-CXnKph_e.js"
     ]
   },
   "app/demos/[projectId]/DemoStudio.tsx": {
-    "file": "assets/DemoStudio-BvqUXfPS.js",
+    "file": "assets/DemoStudio-C03yW72R.js",
     "name": "DemoStudio",
     "src": "app/demos/[projectId]/DemoStudio.tsx",
     "isDynamicEntry": true,
@@ -41,7 +52,7 @@
     ]
   },
   "node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "assets/layout-segment-context-DfoFj7_V.js",
+    "file": "assets/layout-segment-context-Ck_EqKgv.js",
     "name": "layout-segment-context",
     "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
@@ -52,7 +63,7 @@
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "assets/index-Dzu9tamP.js",
+    "file": "assets/index-fb4jPWi0.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
@@ -61,6 +72,7 @@
       "_framework-CXnKph_e.js"
     ],
     "dynamicImports": [
+      "app/IdentityStage.tsx",
       "app/ProjectShowcase.tsx",
       "node_modules/vinext/dist/shims/layout-segment-context.js",
       "app/demos/[projectId]/DemoStudio.tsx",
