@@ -42,7 +42,7 @@
     ]
   },
   "app/demos/[projectId]/DemoStudio.tsx": {
-    "file": "assets/DemoStudio-C03yW72R.js",
+    "file": "assets/DemoStudio-DSstH5AD.js",
     "name": "DemoStudio",
     "src": "app/demos/[projectId]/DemoStudio.tsx",
     "isDynamicEntry": true,
@@ -52,7 +52,7 @@
     ]
   },
   "node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "assets/layout-segment-context-CvZyHHxz.js",
+    "file": "assets/layout-segment-context-CDIeY-jh.js",
     "name": "layout-segment-context",
     "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
@@ -63,7 +63,7 @@
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "assets/index-CpD07-I_.js",
+    "file": "assets/index-JzDXKvNS.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
