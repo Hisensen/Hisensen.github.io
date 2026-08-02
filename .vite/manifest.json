@@ -11,7 +11,7 @@
     "name": "rolldown-runtime"
   },
   "app/HaisenAI.tsx": {
-    "file": "assets/HaisenAI-DT9hzRPZ.js",
+    "file": "assets/HaisenAI-BVHn67bn.js",
     "name": "HaisenAI",
     "src": "app/HaisenAI.tsx",
     "isDynamicEntry": true,
@@ -21,7 +21,7 @@
     ]
   },
   "app/ProjectShowcase.tsx": {
-    "file": "assets/ProjectShowcase-BgXe8vLM.js",
+    "file": "assets/ProjectShowcase-CF5FoF7f.js",
     "name": "ProjectShowcase",
     "src": "app/ProjectShowcase.tsx",
     "isDynamicEntry": true,
@@ -31,7 +31,7 @@
     ]
   },
   "app/demos/[projectId]/DemoStudio.tsx": {
-    "file": "assets/DemoStudio-pTsZ7FRi.js",
+    "file": "assets/DemoStudio-BvqUXfPS.js",
     "name": "DemoStudio",
     "src": "app/demos/[projectId]/DemoStudio.tsx",
     "isDynamicEntry": true,
@@ -41,7 +41,7 @@
     ]
   },
   "node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "assets/layout-segment-context-BoaDClAr.js",
+    "file": "assets/layout-segment-context-DFTBbABx.js",
     "name": "layout-segment-context",
     "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
@@ -52,7 +52,7 @@
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "assets/index-B5JvTd3E.js",
+    "file": "assets/index-BM3Xgveg.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
