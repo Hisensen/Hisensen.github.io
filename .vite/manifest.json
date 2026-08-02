@@ -1,0 +1,71 @@
+{
+  "_framework-CXnKph_e.js": {
+    "file": "assets/framework-CXnKph_e.js",
+    "name": "framework",
+    "imports": [
+      "_rolldown-runtime-S-ySWqyJ.js"
+    ]
+  },
+  "_rolldown-runtime-S-ySWqyJ.js": {
+    "file": "assets/rolldown-runtime-S-ySWqyJ.js",
+    "name": "rolldown-runtime"
+  },
+  "app/HaisenAI.tsx": {
+    "file": "assets/HaisenAI-DT9hzRPZ.js",
+    "name": "HaisenAI",
+    "src": "app/HaisenAI.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-S-ySWqyJ.js",
+      "_framework-CXnKph_e.js"
+    ]
+  },
+  "app/ProjectShowcase.tsx": {
+    "file": "assets/ProjectShowcase-DNpNcmkW.js",
+    "name": "ProjectShowcase",
+    "src": "app/ProjectShowcase.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "app/HaisenAI.tsx",
+      "_framework-CXnKph_e.js"
+    ]
+  },
+  "app/demos/[projectId]/DemoStudio.tsx": {
+    "file": "assets/DemoStudio-BwKZknZ7.js",
+    "name": "DemoStudio",
+    "src": "app/demos/[projectId]/DemoStudio.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-S-ySWqyJ.js",
+      "_framework-CXnKph_e.js"
+    ]
+  },
+  "node_modules/vinext/dist/shims/layout-segment-context.js": {
+    "file": "assets/layout-segment-context-D58kMVr4.js",
+    "name": "layout-segment-context",
+    "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-S-ySWqyJ.js",
+      "virtual:vinext-app-browser-entry",
+      "_framework-CXnKph_e.js"
+    ]
+  },
+  "virtual:vinext-app-browser-entry": {
+    "file": "assets/index-Cy04ec2C.js",
+    "name": "index",
+    "src": "virtual:vinext-app-browser-entry",
+    "isEntry": true,
+    "imports": [
+      "_rolldown-runtime-S-ySWqyJ.js",
+      "_framework-CXnKph_e.js"
+    ],
+    "dynamicImports": [
+      "app/ProjectShowcase.tsx",
+      "node_modules/vinext/dist/shims/layout-segment-context.js",
+      "app/demos/[projectId]/DemoStudio.tsx",
+      "virtual:vinext-app-browser-entry",
+      "app/HaisenAI.tsx"
+    ]
+  }
+}
